@@ -10,9 +10,8 @@ This project demonstrates an end-to-end data analysis workflow where Python is u
 
 ## Files:
 - **data/**: Contains raw and processed data files.
-- **notebooks/**: Python scripts for data cleaning and analysis.
+- **notebooks/**: Python scripts for data cleaning and analysis and SQL queries for extracting and transforming data from the SQLite database.
 - **powerbi/**: Power BI files for data visualization.
-- **sql/**: SQL queries for extracting and transforming data from the SQLite database.
 
 ## Requirements:
 - Python 3.x
